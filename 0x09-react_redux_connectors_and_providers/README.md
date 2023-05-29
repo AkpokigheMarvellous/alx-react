@@ -1,4 +1,4 @@
-eact Redux Connectors and Providers
+## React Redux Connectors and Providers
 ### Learning Objectives
 
 - Redux connectors and how to use them
